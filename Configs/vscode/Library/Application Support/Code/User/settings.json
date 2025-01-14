@@ -1,0 +1,13 @@
+{
+    "github.copilot.advanced": {
+        "authProvider": "github"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.autoSave": "afterDelay",
+    "git.autofetch": true,
+    "githubPullRequests.pullBranch": "never",
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+    "editor.minimap.enabled": false,
+    "terminal.integrated.fontFamily": "monospace"
+}

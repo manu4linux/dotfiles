@@ -1,0 +1,15 @@
+[
+  {
+    "key": "ctrl+x",
+    "command": "workbench.action.togglePanel"
+  },
+  {
+    "command": "workbench.action.toggleSidebarVisibility",
+    "key": "ctrl+e"
+  },
+  {
+    "command": "workbench.files.action.focusFilesExplorer",
+    "key": "ctrl+e",
+    "when": "editorTextFocus"
+  }
+]
