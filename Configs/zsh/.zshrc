@@ -1,6 +1,7 @@
 #alias docker=podman
 alias ct="cargo test -- --nocapture"
-alias ll="ls -al"
+alias ll="ls -alhtr"
+alias la="ls -a"
 
 export PATH="/opt/homebrew/opt/coreutils/libexec/gnubin:$PATH"
 export PATH="$PATH":"$HOME/.pub-cache/bin"
