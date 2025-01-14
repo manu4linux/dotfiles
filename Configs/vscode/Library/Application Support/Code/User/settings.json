@@ -9,5 +9,6 @@
     "editor.fontLigatures": true,
     "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
     "editor.minimap.enabled": false,
-    "terminal.integrated.fontFamily": "monospace"
+    "terminal.integrated.fontFamily": "monospace",
+    "makefile.configureOnOpen": true
 }

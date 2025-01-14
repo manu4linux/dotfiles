@@ -21,9 +21,9 @@ alias gs="git status"
 alias gc="git commit"
 alias ga="git add"
 alias gr="git remote"
-alias gph="git push"
-alias go="git checkout"
+alias gt="git checkout"
 alias gf="git fetch"
+alias gph="git push"
 
 ## [flutter fvm] 
 alias f="fvm flutter"

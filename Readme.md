@@ -40,3 +40,10 @@ direnv allow .
 ### remove dotfile links to its place 
 - tuckr status
 - tuckr rm \<group> : `tuckr rm zsh`
+
+
+## TODO
+- nix based setup 
+- golang with asdf
+- rust with ??
+- dart with ??
