@@ -18,8 +18,8 @@ cargo install --git https://github.com/RaphGL/Tuckr.git
 ## Flow of operations 
 
 - Auto run's `direnv` which invoke variables based on file `.envrc`.
-### Add dotile links to its place 
+### Add dotfile links to its place 
  Manually run Tuckr set \<group> : `tuckr set zsh` to set dotfiles
-### remove dotile links to its place 
+### remove dotfile links to its place 
 - tuckr status
 - tuckr rm \<group> : `tuckr rm zsh`
