@@ -31,6 +31,9 @@ alias d="fvm dart"
 alias v="fvm"
 
 
+## [tree ] 
+alias tree="tree -a"
+
 ##
 #export HISTFILESIZE=1000000000
 #export HISTSIZE=1000000000
