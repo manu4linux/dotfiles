@@ -35,14 +35,20 @@ direnv allow .
 ## Flow of operations 
 
 - Auto run's `direnv` which invoke variables based on file `.envrc`.
+
 ### Add dotfile links to its place 
- Manually run Tuckr set \<group> : `tuckr set zsh` to set dotfiles
+
+ Manually run Tuckr add \<group> : `tuckr add zsh` to set dotfiles
+    - run `tuckr add \<group>` is we need hooks scripts to run
+
 ### remove dotfile links to its place 
+
 - tuckr status
 - tuckr rm \<group> : `tuckr rm zsh`
 
 
 ## TODO
+
 - nix based setup 
 - golang with asdf
 - rust with ??
