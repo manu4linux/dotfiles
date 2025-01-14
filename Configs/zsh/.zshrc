@@ -16,14 +16,14 @@ alias tg="tuckr groupis"
 alias t="tuckr" 
 
 ## [git]
-alias g="git" 
-alias gs="git status" 
-alias gc="git commit" 
-alias ga="git add" 
-alias gr="git remote" 
-alias ghh="git push" 
-alias go="git checkout" 
-alias gf="git fetch" 
+alias g="git"
+alias gs="git status"
+alias gc="git commit"
+alias ga="git add"
+alias gr="git remote"
+alias gph="git push"
+alias go="git checkout"
+alias gf="git fetch"
 
 ## [flutter fvm] 
 alias f="fvm flutter"
