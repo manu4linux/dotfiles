@@ -23,6 +23,7 @@ alias ga="git add"
 alias gr="git remote" 
 alias ghh="git push" 
 alias go="git checkout" 
+alias gf="git fetch" 
 
 ## [flutter fvm] 
 alias f="fvm flutter"
