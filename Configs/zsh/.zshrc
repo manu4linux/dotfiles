@@ -7,7 +7,21 @@ export PATH="$PATH":"$HOME/.pub-cache/bin"
 export PATH="$PATH":"$HOME/fvm/default/bin"
 
 # aliases
-## [flutter] 
+## [tuckr]
+alias tt="tuckr set"
+alias ts="tuckr status" 
+alias tp="tuckr push" 
+alias tg="tuckr groupis" 
+alias t="tuckr" 
+
+## [git]
+alias g="git" 
+alias gs="git status" 
+alias gc="git commit" 
+alias ga="git add" 
+alias gr="git remote" 
+
+## [flutter fvm] 
 alias f="fvm flutter"
 alias d="fvm dart"
 alias v="fvm"
