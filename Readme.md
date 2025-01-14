@@ -14,6 +14,19 @@ Install from rust cargo
 ```
 cargo install --git https://github.com/RaphGL/Tuckr.git
 ```
+## Install 
+
+install dotfiles
+```
+git clone git@github.com:manu4linux/tuckr-files.git ~/.dotfiles
+```
+
+Edit .envrc and .gitconfig to your username ssh and run direnv
+```
+cd ~/.dotfiles
+cat .envrc 
+direnv allow .
+```
 
 ## Flow of operations 
 

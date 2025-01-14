@@ -17,6 +17,7 @@ Here's the order of execution for Zsh startup files:
 8. ~/.zlogin (Per-user, login shells)
 
 On logout:
+
 9. ~/.zlogout
 10. /etc/zlogout
 
