@@ -11,5 +11,15 @@
     "command": "workbench.files.action.focusFilesExplorer",
     "key": "ctrl+e",
     "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+\\ alt+enter",
+    "command": "workbench.panel.chat",
+    "when": "workbench.panel.chat.view.copilot.active"
+  },
+  {
+    "key": "ctrl+cmd+i",
+    "command": "-workbench.panel.chat",
+    "when": "workbench.panel.chat.view.copilot.active"
   }
 ]
